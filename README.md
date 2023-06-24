@@ -1,2 +1,2 @@
-# responsive_html_css
+# Responsive HTMl and CSS
 A repsonsive real-world website with HTML and CSS
